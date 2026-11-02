@@ -1,0 +1,6 @@
+{
+  "name": "RoadRakshak AI – Smart Pothole Detection & Road Repair Reporting System",
+  "description": "AI-powered real-time road inspection, pothole computer vision detection, PWD material/cost estimator, and bilingual Indian government complaint generation system.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
